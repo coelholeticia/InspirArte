@@ -1,0 +1,40 @@
+.Lista-menu{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #E9C666;
+    height: 5rem;
+    padding: 0 2rem;
+}
+
+.logo-tipo{
+    height: 120px;
+    margin-right: 50px;
+}
+
+.logo-focus:hover{
+    border-bottom: none;
+}
+
+a{
+    text-decoration: none;
+    color: #7B4639;
+    font-size: 20px;
+    font-family: 'Baloo 2', cursive;
+}
+
+a:hover{
+    border-bottom: solid 4px #FFDEF2;
+}
+
+@media(max-width: 484px){
+    .logo-tipo{
+        display: none;
+    }
+
+    a{
+        font-size: 1rem;
+    }
+}
+

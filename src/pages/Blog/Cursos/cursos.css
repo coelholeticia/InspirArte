@@ -1,0 +1,36 @@
+.cursos{
+    background-color: #EED89A;
+    padding: 20px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.titulo-curso{
+    font-size: 1.8rem;
+    color: #EB72B1;
+}
+
+.list-cursos{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    list-style: none;
+    gap:4rem;
+    padding-top: 10px;
+    margin: 80px 0;
+}
+
+@media (max-width: 632px){
+    .list-cursos{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        list-style: none;
+        gap:4rem;
+        padding-top: 10px;
+    }
+
+}

@@ -1,0 +1,50 @@
+.cont-principal{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    padding: 100px 80px;
+}
+
+
+.paragrafo-principal{
+    font-size: 32px;
+    color: #7B4639;
+    font-family:  'Baloo 2', cursive;
+}
+
+span{
+    color: #EB72B1;
+}
+
+@media (max-width: 960px){
+    .paragrafo-principal{
+        font-size: 1.2rem;
+        color: #7B4639;
+        font-family:  'Baloo 2', cursive;
+    }
+}
+
+@media(max-width: 890px){
+    .cont-principal{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding: 100px 80px;
+    }
+    
+}
+
+@media(max-width: 560px){
+   .img-principal{
+    width: 80%;
+    height: 80%;
+   }
+}
+
+@media(max-width: 484px){
+    .img-principal{
+        width: 200px;
+        height: 200px;
+       }
+}

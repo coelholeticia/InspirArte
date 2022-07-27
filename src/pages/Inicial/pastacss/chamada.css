@@ -1,0 +1,30 @@
+.cont-chamada{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.bg-amarelo{
+    background-color: #EED89A;
+    padding: 16px;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap:1rem;
+}
+
+h2{
+    color: #D46A94;
+    font-size: 1.5rem;
+}
+
+.button{
+    text-align: center;
+    background-color: #CE9DB9;
+    padding: 2px 12px;
+    border-radius: 20px;
+}
