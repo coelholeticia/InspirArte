@@ -21,17 +21,17 @@ Ajudar também, oferecendo cursos gratuitos, de artesantos e negócios.
 Obs: Nem tudo foi implementado no site, algumas coisas foram mudadas.
 
 *Documentação*
-[vite](https://vitejs.dev/guide/)
-[rotas](https://reactrouter.com/)
-[Icons](https://react-icons.github.io/react-icons/)
-[Api-fake](https://my-json-server.typicode.com/)
+* [vite](https://vitejs.dev/guide/)
+* [rotas](https://reactrouter.com/)
+* [Icons](https://react-icons.github.io/react-icons/)
+* [Api-fake](https://my-json-server.typicode.com/)
 
 *Projeto Final*
 Esse projeto é o projeto final para o curso da Reprograma.
 como desenvolvedora Front-end. 
 
-[site-InspirArte](https://inspirarte.netlify.app/)
-[Apresentação](https://www.canva.com/design/DAFH5TV12Vo/P59G6H0xhQD007p9-FPw-A/view?utm_content=DAFH5TV12Vo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+* [site-InspirArte](https://inspirarte.netlify.app/)
+* [Apresentação](https://www.canva.com/design/DAFH5TV12Vo/P59G6H0xhQD007p9-FPw-A/view?utm_content=DAFH5TV12Vo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 
 
