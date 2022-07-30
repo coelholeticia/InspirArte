@@ -12,7 +12,6 @@ Ajudar também, oferecendo cursos gratuitos, de artesantos e negócios.
 *Tecnologias Usadas*
 * ReactJs 
 * React-router-dom
-* Icons-react
 * Vite
 * Api fake
 * figma
