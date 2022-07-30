@@ -10,12 +10,12 @@ lojas e contatos.
 Ajudar também, oferecendo cursos gratuitos, de artesantos e negócios. 
 
 *Tecnologias Usadas*
-1.ReactJs 
-2.React-router-dom
-3.Icons-react
-4.Vite
-5.Api fake
-6.figma
+* ReactJs 
+* React-router-dom
+* Icons-react
+* Vite
+* Api fake
+* figma
 
 *Prototipo do figma*
 [figma](https://www.figma.com/file/7Z4Pil7NFahj2S4GocCXnk/Untitled?node-id=0%3A1)
