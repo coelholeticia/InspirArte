@@ -2,7 +2,12 @@
 
 ![](https://inspirarte.netlify.app/assets/logoArt.212c13cc.png)
 
-### Projeto desenvolvido para ajudar mulheres
+### Projeto desenvolvido para ajudar mulheres Artesãs.✨
+
+No Brasil existem cerca 10 milhões de artesãos, geralmente seus trabalhos passado de gerações.
+O artesanato, além de ter fins teraupeticos, ajuda milhares de famílias a ter uma fonte de renda.
+Com a pandemia onde diversas pessoas ficaram desempregadas, o artesanato foi a fonte de renda, ajudando 
+as famílias brasileiras a passar por esse período. 
 
 Esse projeto tem o intuito de ajudar mulheres empreendedoras e artesãs
 do estado do Rio de Janeiro. Uma maneira de divulgação desses trabalhos,
