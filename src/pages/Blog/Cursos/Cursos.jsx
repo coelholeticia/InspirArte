@@ -18,7 +18,7 @@ function Cursos(){
             </ul>
 
             <div className='lista-curso'>
-                <h3 className='titulo-curso'>Lista de cursos para você espezializar</h3>
+                <h3 className='titulo-curso'>Lista de cursos </h3>
                 <ul className='lista-de-cursos'>
                     <li className='item-curso'>
                         <a href='https://www.skillshare.com/browse/crochet?locale=ptcoupon=GOOGNBPT1MESGRATISutm_source=Googleutm_medium=paidsearchutm_campaign=Croud_Search_Google_LA_BR_PT_BOF_Non-Brandutm_term=matchtype=gclid=Cj0KCQjw852XBhC6ARIsAJsFPN0lABUlyQWj6Hg2n4gbUCsQcPFtHXOnWPkfiv3bnLNiCfK5vkZCutkaAmkfEALw_wcB' target='_blank'>Diversos cursos de artesanato</a>
