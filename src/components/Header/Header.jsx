@@ -15,6 +15,9 @@ function Header() {
                         <Link to='blog'>BLOG</Link>
                     </li>
                     <li className="item-menu">
+                        <Link to='artesa'>ARTESÃS</Link>
+                    </li>
+                    <li className="item-menu">
                         <Link to='cadastro'>CADASTRO</Link>
                     </li>
         

@@ -1,13 +1,22 @@
 import Chamada from './Chamada'
 import Sectionarte from './Sectionarte'
-import Users from './Api-users/Users'
+import imagem from '../../assets/gif-pagina.gif'
+import Sobre from'./Sobre'
+import './pastacss/inicial.css'
 
 function Inicial(){
     return(
         <>
             <Sectionarte />
             <Chamada />
-            <Users />
+            <Sobre />
+
+            <div className="imagem-gif">
+                <img className="gif" src={imagem} alt="gif-animado" />
+                <p className='citação'>
+                    "O coletivo de artesãos empreendedores, promovendo geração de renda e impacto social." - Centro cultural Dona Antonia.
+                </p>
+            </div>
            
         </>
      

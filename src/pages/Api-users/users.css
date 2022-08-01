@@ -1,0 +1,82 @@
+h1{
+    text-align: center;
+    padding-top: 50px;
+    color: #7B4639;
+}
+.lista-user{
+    background-color: #f19acb86;
+    padding: 50px 0;
+    margin-top: 100px;
+}
+
+.lista-user .lista{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    list-style: none;
+    flex-wrap: wrap;
+    gap:30px;
+    
+}
+
+
+.user-item{
+    border: solid 1px #7B4639;
+    border-radius: 8px;
+    padding: 12px;
+    color: #7B4639;
+    width: 250px;
+    height: 230px ;
+    background-image: url(https://i.pinimg.com/736x/fa/44/00/fa4400d95a697cf85e938d0ecc9524cd.jpg);
+    
+}
+
+.user-item:hover{
+    width: 280px;
+    height: 280px;
+    gap:15px;
+   
+}
+
+.logo-lojas{
+    width: 80px;
+    height: 80px;
+    border-radius: 50px;
+}
+
+.definir-espaço{
+    padding-top: 5px;
+    height: 80px;
+}
+
+.bg-color{
+    background-color: #CE9DB9;
+    padding: 5px;
+    border-radius: 2px;
+}
+
+.redes{
+    display: block;
+    padding-top: 40px;
+}
+
+.link-user:hover{
+    border-bottom: none;
+
+}
+
+
+@media(max-width: 658px){
+    .lista-user .lista{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-around;
+        list-style: none;
+        gap: 20px;
+
+    }
+
+
+}

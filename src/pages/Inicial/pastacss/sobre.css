@@ -1,0 +1,19 @@
+.sobre{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 100px 0;
+    border: solid 1px #EB72B1;
+    padding: 50px 0;
+}
+.sobre:hover{
+    background-color: #eb72b174;
+}
+
+.description{
+    color: #EB72B1;
+    font-size: 1.2rem;
+    padding: 10px 100px;
+    text-align: center;
+}

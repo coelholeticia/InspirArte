@@ -4,6 +4,7 @@ import Blog from '../pages/Blog/Blog'
 import Cadastro from '../pages/Cadastro/Cadastro'
 import Header from '../components/Header/Header'
 import Footer from '../components/Footer/Footer'
+import Artesa from '../pages/Artesa/Artesa'
 
 
 
@@ -15,6 +16,7 @@ function Rotas(){
             <Routes>
                 <Route path='/' element={<Inicial />} />
                 <Route path='blog' element={<Blog />} />
+                <Route path='artesa' element={<Artesa />} />
                 <Route path='cadastro' element={<Cadastro />} />  
             </Routes>
             <Footer />

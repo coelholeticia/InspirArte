@@ -1,36 +1,80 @@
-.cursos{
-    background-color: #EED89A;
-    padding: 20px 0;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
+.slider{
+    list-style: none;
+ 
+}
+
+.slider li{
+    padding: 10px 300px;
 }
 
 .titulo-curso{
-    font-size: 1.8rem;
-    color: #EB72B1;
+    text-align: center;
+    padding-top: 80px;
+    font-size: 2rem;
 }
 
-.list-cursos{
+.lista-de-cursos{
     display: flex;
     flex-direction: row;
+    align-items: center;
     justify-content: space-around;
-    list-style: none;
-    gap:4rem;
-    padding-top: 10px;
-    margin: 80px 0;
+    padding: 20px;
+    flex-wrap: wrap;
 }
 
-@media (max-width: 632px){
-    .list-cursos{
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-        align-items: center;
-        list-style: none;
-        gap:4rem;
-        padding-top: 10px;
+.item-curso{
+    display: flex;
+    flex-direction: column-reverse;
+    align-items: center;
+    justify-content: center;
+    margin-top: 100px;
+    padding: 30px 40px;
+    border-radius: 10px;
+    gap:10px;
+    width: 150px;
+    background-image: url(https://i.pinimg.com/564x/fc/9a/35/fc9a353d2ca1063543e25cb55d7df002.jpg);
+}
+
+.item-curso:hover{
+    width: 300px;
+}
+.img-curso{
+    width: 150px;
+    height: 150px;
+    border-radius: 80px ;
+
+}
+
+@media (max-width:1110px){
+    .youtube{
+        width: 500px;
+        text-align: center;
+    }
+    .slider li{
+        padding: 10px 200px;
+    }
+}
+
+@media(max-width:880px){
+    .youtube{
+        width: 400px;
+        text-align: center;
+    }
+
+}
+
+@media(max-width:745px){
+    .youtube{
+        display: none;
+    }
+
+}
+
+@media(max-width: 462px){
+    .titulo-curso{
+        color: #7B4639;
+        font-size: 1.2rem;
+        text-align: center;
     }
 
 }
